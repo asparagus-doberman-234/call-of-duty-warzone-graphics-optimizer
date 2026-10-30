@@ -1,0 +1,22 @@
+{
+  "name": "call-of-duty-warzone-graphics-optimizer",
+  "displayName": "Call of Duty: Warzone Graphics Optimizer",
+  "programType": "graphics-optimizer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Graphics categories",
+    "Benchmark notes",
+    "Preset library"
+  ],
+  "topics": [
+    "call-of-duty-warzone-graphics-optimizer",
+    "call-of-duty-warzone-tools",
+    "call-of-duty-warzone-menu",
+    "call-of-duty-warzone-settings",
+    "call-of-duty-warzone-configs",
+    "call-of-duty-warzone-graphics-categories",
+    "call-of-duty-warzone-benchmark-notes"
+  ]
+}
